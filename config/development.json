@@ -1,0 +1,9 @@
+{
+    "projectRoot": "/Users/mac/Documents/work-space/todo-app-server",
+    "appName": "Todo-App",
+    "environmentName": "",
+    "version": "0.0.1",
+    "protocol": "http",
+    "host": "localhost",
+    "port": 3000
+}
